@@ -1,6 +1,2 @@
 # Meditation
-
-###### Purpose:
-    Conunt down timer for meditaion with background sounds
-
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/javascript/meditation/).
+# you can live [here]( https://harika-brs.github.io/JS-Meditation/)
